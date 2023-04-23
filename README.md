@@ -1,8 +1,8 @@
 # My Expenses REST API Service
 ### This is hbacke part of the "My Expenses" application
 
-H2 database console: http://localhost:8080/h2-console
-
+- H2 database console: http://localhost:8080/h2-console
+- Short test of the app is running: http://localhost:8080/test
 
 
 ### Reference Documentation
